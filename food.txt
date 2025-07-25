@@ -1,2 +1,3 @@
 sandwich
-salmon & chicken sandwich
+salmon sandwich
+waffles
